@@ -198,6 +198,4 @@ group by b.book_id;
 
 SELECT * FROM Books;
 SELECT * FROM Customers;
-
-
 SELECT * FROM Orders;
